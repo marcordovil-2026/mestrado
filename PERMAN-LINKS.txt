@@ -1,0 +1,30 @@
+
+
+https://github.com/marcordovil/PROJ-GIT/blob/7597c6d00a53eb8dd9d4ccc02322a24ddce4bb7f/Proj001.ipynb
+
+https://github.com/marcordovil/PROJ-GIT/blob/7597c6d00a53eb8dd9d4ccc02322a24ddce4bb7f/Proj002.ipynb
+
+https://github.com/marcordovil/PROJ-GIT/blob/7597c6d00a53eb8dd9d4ccc02322a24ddce4bb7f/Proj003.ipynb
+
+https://github.com/marcordovil/PROJ-GIT/blob/008db8d3e93b9c987d40f5a94bcb6b136bdf2a46/Proj001GH.ipynb
+
+https://colab.research.google.com/github/marcordovil/PROJ-GIT/blob/main/Proj001GH.ipynb
+-------------------------------------------------------------------------------------------
+https://colab.research.google.com/github/marcordovil/PROJ-GIT/blob/main/Proj002GH.ipynb
+https://colab.research.google.com/github/marcordovil/PROJ-GIT/blob/main/Proj002GH.ipynb
+
+https://colab.research.google.com/
+
+Usando Google Colab
+Acesse Google Colab:
+
+Vá para Google Colab.
+Abrir o Notebook a partir do GitHub:
+
+No menu superior, clique em File (Arquivo) -> Open notebook (Abrir notebook).
+Clique na aba GitHub.
+Digite o URL do GitHub ou apenas o nome do repositório marcordovil/PROJ-GIT e pressione Enter.
+Selecione o notebook Proj001GH.ipynb da lista que aparecer.
+Executar o Notebook:
+
+Uma vez carregado, você pode executar cada célula do notebook clicando no ícone de play à esquerda de cada célula ou selecionando Runtime -> Run all (Executar tudo) no menu superior.

@@ -1,0 +1,10 @@
+https://colab.research.google.com/github/marcordovil/PROJ-GIT/blob/main/Proj001GH.ipynb
+
+https://colab.research.google.com/github/marcordovil/PROJ-GIT/blob/main/Proj002GH.ipynb
+
+https://colab.research.google.com/github/marcordovil/PROJ-GIT/blob/main/Proj003GH.ipynb
+
+
+# URL do arquivo normalizado da amostra no GitHub - ja está no repositório " ... marcordovil/PROJ-GIT/main "
+
+url = 'https://raw.githubusercontent.com/marcordovil/PROJ-GIT/main/stad_data_clinical_ctgr.txt'

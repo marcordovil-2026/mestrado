@@ -1,0 +1,41 @@
+17021757245     3284532-3
+
+
+
+
+03110241236
+lucas.silva.silva@icb.ufpa,br
+----------------------------------------------------------------
+https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html
+
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("TCGAbiolinks")
+browseVignettes("TCGAbiolinks")
+
+TCGAbiolinks_2.30.4.tar
+
+C:\MESTRADO\TCGAbiolinks_2.30.4.tar
+install.packages("C:\MESTRADO\TCGAbiolinks_2.30.4.tar", repos = NULL, type = "source")
+---------------------------------------------------------------
+baixar 
+fastq
+qualidade
+contar qts genes 
+descricao dos dados 
+se tem contaminaçaõ 
+--------------------------------------------------------------------
+EXERCICIO
+https://github.com/Gilderlanio/notasdeaulas/blob/main/machine_learning/markdowns/ALL.txt
+
+na linha 48 estrategia de shupple 
+qual a proprocao de classes q esta indo no conj de treinamento 
+desses  90 ...qto é posotivo
+e qtd negativo 
+.....
+
+
+
+ 
+

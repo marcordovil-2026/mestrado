@@ -1,0 +1,3 @@
+https://www.google.com/search?q=colocar+jupyter+no+github+desktop&oq=colocar+jupyter+no+github&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRifBTIHCAMQIRifBTIHCAQQIRifBTIHCAUQIRifBdIBCTExNTE5ajFqN6gCCLACAQ&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:a363b5bc,vid:LlrKTV4-ftI,st:0
+
+How to add a Jupyter notebook file to GitHub
